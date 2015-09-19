@@ -1,7 +1,7 @@
 {
   "name": "file-event",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "File input handler for value-event",
   "license": "MIT",
   "repository": "bendrucker/file-event",
