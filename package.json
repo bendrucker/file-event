@@ -1,0 +1,39 @@
+{
+  "name": "file-event",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "File input handler for value-event",
+  "license": "MIT",
+  "repository": "bendrucker/file-event",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "file",
+    "input",
+    "event",
+    "handler",
+    "value-event"
+  ],
+  "devDependencies": {
+    "dispatch-event": "~1.0.0",
+    "dover": "~1.1.0",
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0",
+    "thermometer": "~1.3.4",
+    "virtual-dom": "~2.1.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "value-event": "~5.1.0",
+    "xtend": "~4.0.0"
+  }
+}
