@@ -1,4 +1,4 @@
-# file-event [![Build Status](https://travis-ci.org/bendrucker/file-event.svg?branch=master)](https://travis-ci.org/bendrucker/file-event)
+# file-event [![Build Status](https://travis-ci.org/bendrucker/file-event.svg?branch=master)](https://travis-ci.org/bendrucker/file-event) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/file-event.svg)](https://greenkeeper.io/)
 
 > File input handler for [value-event](https://github.com/raynos/value-event)
 
